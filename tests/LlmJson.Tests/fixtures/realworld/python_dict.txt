@@ -1,0 +1,1 @@
+{'name': 'Ada Lovelace', 'active': True, 'manager': None, 'skills': ['mathematics', 'computing'], 'age': 36, 'notes': 'Pioneer of what we now call programming'}
