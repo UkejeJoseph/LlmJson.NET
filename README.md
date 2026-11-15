@@ -1,5 +1,3 @@
-> **Maintained by [Joseph Ukeje](https://github.com/UkejeJoseph)**
-
 # LlmJson
 
 The .NET library for JSON that comes out of an LLM: extract it from prose, repair it, and parse it while it streams. Zero external dependencies.
