@@ -1,0 +1,10 @@
+{
+  "invoice_number": "INV-2041",
+  "customer": "Acme Industries",
+  "currency": "NGN",
+  "line_items": [
+    {"description": "Consulting", "quantity": 10, "unit_price": 25000},
+    {"description": "Support retainer", "quantity": 1, "unit_price": 150000}
+  ],
+  "total": 400000
+}
