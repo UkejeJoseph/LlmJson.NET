@@ -1,0 +1,5 @@
+```json
+{
+  "summary": "The customer reported intermittent timeouts on the payments endpoint",
+  "severity": "high",
+  "affected_service": "checkout-a
