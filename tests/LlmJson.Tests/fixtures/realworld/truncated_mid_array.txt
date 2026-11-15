@@ -1,0 +1,3 @@
+Here are the extracted scores as requested:
+
+{"student": "B. Okafor", "term": "second", "scores": [88, 92, 7
