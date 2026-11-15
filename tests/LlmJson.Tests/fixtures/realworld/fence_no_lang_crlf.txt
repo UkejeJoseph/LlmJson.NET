@@ -1,0 +1,9 @@
+The task finished. Raw status follows.
+
+```
+{
+  “status”: “complete”,
+  “attempts”: 2,
+  “message”: “Task “deploy” finished”
+}
+```
