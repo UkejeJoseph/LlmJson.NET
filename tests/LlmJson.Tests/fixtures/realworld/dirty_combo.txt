@@ -1,0 +1,12 @@
+Here's the config you asked about:
+
+```json
+{
+  // primary connection
+  environment: 'production',
+  'retries': 3,
+  "endpoints": ['https://api.example.com', 'https://fallback.example.com',],
+  "verify_ssl": True,
+  "proxy": None,
+}
+```
