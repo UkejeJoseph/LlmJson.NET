@@ -1,0 +1,1 @@
+{"environment": "production", "retries": 3, "endpoints": ["https://api.example.com", "https://fallback.example.com"], "verify_ssl": true, "proxy": null}
