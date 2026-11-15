@@ -1,0 +1,1 @@
+Great question! Based on the document you shared, here is the structured summary you asked for: {"title": "Q3 Board Update", "sentiment": "cautiously optimistic", "key_points": ["revenue up 14%", "churn flat", "hiring freeze lifted"], "score": 7.5} I hope that helps. Feel free to ask for a deeper breakdown of any section.
